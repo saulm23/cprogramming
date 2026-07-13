@@ -23,5 +23,6 @@ int main()
 		}
 	}	
 	printf("%d %d% d\n", nl, nw, nc);
+
 	return 0;
 }
